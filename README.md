@@ -1,2 +1,3 @@
 # hello-world
-first-test
+Hi there,
+this is a very first test here with GitHub...
